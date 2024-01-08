@@ -10,7 +10,7 @@ export default function App() {
         <footer>
           This project was coded by Tetiana Orlovska and is{" "}
           <a
-            href="https://github.com/Sable2021/react-weather-app3"
+            href="https://github.com/Sable2021/react-weather-app4"
             target="_blank"
             rel="noopener noreferrer"
           >
